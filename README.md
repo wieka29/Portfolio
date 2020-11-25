@@ -1,6 +1,9 @@
 # Portfolio
 Includes some results from my projects<br/>
 
+**Project computing on the google earth engine: Soil loss at 30m spatial resolution for China using the latest high resoltuion satellite data** <br/>
+![alt text](https://github.com/wieka29/Portfolio/blob/main/output.gif?raw=true)<br/>
+
 **Project on supervised machine learning: Estimate carbon density in mangrove forests for Suriname**<br/>
 ![alt text](https://github.com/wieka29/Portfolio/blob/main/carbon_density_mangrove.png?raw=true)<br/>
 
